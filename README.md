@@ -19,7 +19,7 @@ A simple RESTful API built with Hono and Node.js for managing reminders.
    ```
 2. Navigate to the project directory:
    ```sh
-   cd reminder-api
+   cd argon
    ```
 3. Install dependencies:
    ```sh
